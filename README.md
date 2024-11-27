@@ -3,3 +3,10 @@ This repository serves as a record of the latest advancements in image and video
 
 ---
 
+| Title | Initial Date | Venue | Task | Resource | Architecture |
+| --- | --- | --- | --- | --- | --- |
+| [HeadRouter: A Training-free Image Editing Framework for MM-DiTs by Adaptively Routing Attention Heads](http://arxiv.org/abs/2411.15034) | 2024-11-22 | Arxiv | Training-Free Image Editing | [Project](https://yuci-gpt.github.io/headrouter/) | FLUX |
+
+
+
+
