@@ -10,6 +10,8 @@ This repository serves as a record of the latest advancements in image and video
 | [OminiControl: Minimal and Universal Control for Diffusion Transformer](http://arxiv.org/abs/2411.15098) | 2024-11-25 | Arxiv | Image Generation | [Project](https://github.com/Yuanshi9815/OminiControl) | FLUX |
 | [One Diffusion to Generate Them All](http://arxiv.org/abs/2411.16318) | 2024-11-26 | Arxiv | Image Generation | [Project](https://github.com/lehduong/OneDiffusion) | Transfusion |
 | [Unveil Inversion and Invariance in Flow Transformer for Versatile Image Editing](http://arxiv.org/abs/2411.15843) | 2024-11-26 | Arxiv | Image Editing based on Flow Inversion | None | SD3.5 |
+| [MaterialPicker: Multi-Modal Material Generation with Diffusion Transformers](https://arxiv.org/pdf/2412.03225) | 2024-12-05 | Arxiv | Material Generation | None | DiT |
+
 
 
 
