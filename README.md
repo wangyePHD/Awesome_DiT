@@ -12,6 +12,7 @@ This repository serves as a record of the latest advancements in image and video
 | [Unveil Inversion and Invariance in Flow Transformer for Versatile Image Editing](http://arxiv.org/abs/2411.15843) | 2024-11-26 | Arxiv | Image Editing based on Flow Inversion | None | SD3.5 |
 | [MaterialPicker: Multi-Modal Material Generation with Diffusion Transformers](https://arxiv.org/pdf/2412.03225) | 2024-12-05 | Arxiv | Material Generation | None | DiT Video Model |
 | [CreatiLayout: Siamese Multimodal Diffusion Transformer for Creative Layout-to-Image Generation](https://arxiv.org/abs/2412.03859) | 2024-12-06 | Arxiv | Layout Image Generation | None | SD3-medium |
+| [FluxSpace: Disentangled Semantic Editing in Rectified Flow Transformers](https://fluxspace.github.io/) | 2024-12-13 | Arxiv | Image Editing | None | FLUX |
 
 
 
